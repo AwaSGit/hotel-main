@@ -21,9 +21,9 @@ Pour une expérience de développement plus pratique, installez l'extension **Li
 
 ## Structure du projet
 
-- Les fichiers `.css` définissent l'apparence des pages : couleurs, polices, espacements, grilles, formulaires, pieds de page et adaptation aux écrans mobiles. Ils règlent aussi les proportions des images et l'apparence des bannières.
+- Les fichiers `.css` définissent l'apparence des pages : couleurs, polices, espacements, grilles, formulaires et adaptation aux écrans mobiles. `footer.css` fournit le style de pied de page partagé.
 - `index.js` contient les interactions JavaScript partagées, notamment le menu et la barre de navigation.
-- `photo/` contient les images utilisées par le site.
+- `photo/` contient les images utilisées par le site, notamment les visuels des destinations de la page « À propos » : Venise, San Francisco, Marrakech, la Grèce, la Thaïlande et Aspen.
 - `video/` contient les vidéos de fond de l'accueil et du bandeau de la page « À propos ».
 
 ## À savoir
